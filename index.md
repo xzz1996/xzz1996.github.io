@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my website !
 
-You can use the [editor on GitHub](https://github.com/xzz1996/xzz1996.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Yuzong Chen. I am currently a research assistant at [School of Electrical & Electronic Engineering, Nanyang Technological University](http://www.eee.ntu.edu.sg/Pages/default.aspx). I am working in [Centre for Integrated Circuits and Systems](http://www.eee.ntu.edu.sg/research/cics/Pages/Home.aspx), under the supervision of [Prof. Tony Tae-Hyoung Kim](https://sites.google.com/view/tonykim).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research interests mainly lie in energy-efficient hardware design. I am also intereted in memory circuits design, including conventional memory (e.g. SRAM) and emerging memory (e.g. ReRAM). Currently, I am working on ReRAM-based computing in-memory.
 
 ### Markdown
 
