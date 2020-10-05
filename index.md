@@ -1,8 +1,8 @@
 # Welcome to my website !
 
-**My name is Yuzong Chen. I am currently a research assistant at [School of Electrical & Electronic Engineering, Nanyang Technological University](http://www.eee.ntu.edu.sg/Pages/default.aspx). I am working in [Centre for Integrated Circuits and Systems](http://www.eee.ntu.edu.sg/research/cics/Pages/Home.aspx), under the supervision of [Prof. Tony Tae-Hyoung Kim](https://sites.google.com/view/tonykim).**
+My name is Yuzong Chen. I am currently a research assistant at [School of Electrical & Electronic Engineering, Nanyang Technological University](http://www.eee.ntu.edu.sg/Pages/default.aspx). I am working in [Centre for Integrated Circuits and Systems](http://www.eee.ntu.edu.sg/research/cics/Pages/Home.aspx), under the supervision of [Prof. Tony Tae-Hyoung Kim](https://sites.google.com/view/tonykim).
 
-**My research interests mainly lie in energy-efficient hardware design. I am also intereted in memory circuits design, including conventional memory (e.g. SRAM) and emerging memory (e.g. ReRAM). Currently, I am working on ReRAM-based computing in-memory.**
+My research interests mainly lie in energy-efficient hardware design. I am also intereted in memory circuits design, including conventional memory (e.g. SRAM) and emerging memory (e.g. ReRAM). Currently, I am working on ReRAM-based computing in-memory.
 
 ### Markdown
 
